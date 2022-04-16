@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: desafio-python-dio
+Version: 0.0.1
+Summary: Pacote do Desafio de Projeto com base nos desafios de códigos do Bootcamp Cognizant Data Engineer 2
+Home-page: https://github.com/ericscunha/desafio-python-pkg-dio
+Author: Eric Cunha
+Author-email: ericscunha@hotmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
 # desafio_python_dio
 
 Description. 
@@ -20,7 +31,7 @@ The package desafio_python_dio is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install desafio_python_dio
 
 ```bash
-pip install desafio-python-dio
+pip install desafio_python_dio
 ```
 
 ## Usage
@@ -59,3 +70,4 @@ Eric Cunha
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
